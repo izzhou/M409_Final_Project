@@ -10,7 +10,7 @@ project/
 ├── Chiles_ShroudedPricesFirmReputation-1.pdf   ← the paper
 ├── Hotel_Data.csv                   ← 120,498 hotel reviews (96MB)
 └── Worker_Data.csv                  ← not used; data for the Chen & Sheldon paper (alternate project option)
-AI_TRANSCRIPT.md                     ← Claude conversation transcript per assignment rules
+AI_Transcript.docx                   ← Claude conversation transcript per assignment rules
 ```
 
 ## What the notebook produces
